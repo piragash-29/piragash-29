@@ -32,4 +32,4 @@ I am a Full Stack Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piragash-29)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=piragash-29&show_icons=true&theme=gotham" alt="piragash" />
