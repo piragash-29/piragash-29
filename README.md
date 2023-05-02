@@ -22,6 +22,6 @@ I am a Full Stack Developer
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,aws,js,react,vue,nodejs,ts,docker,git,graphql,mysql&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,aws,js,react,vue,nodejs,ts,docker,git,graphql,mysql&perline=15)](https://skillicons.dev)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=piragash-29&show_icons=true&theme=gotham" alt="piragash" />
